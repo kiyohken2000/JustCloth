@@ -1,0 +1,1957 @@
+{
+  "_note": "各国の国旗損壊に関する法律データ。status: legal=合法, illegal=違法, gray=グレーゾーン, unknown=不明。情報は調査時点のものであり、変更される可能性があります。",
+  "_sources": [
+    "Wikipedia - Flag desecration",
+    "Library of Congress - Flag Desecration Under the Laws of Selected Foreign Nations",
+    "Newsweek - How US Flag Burning Law Compares to Other Countries",
+    "Euronews - The EU countries that will punish you for disrespecting their flags",
+    "OAS - Inter-American Commission on Human Rights (Legal reports on national symbols)",
+    "Various national Penal Codes and Flag Acts (2015-2025 updates)"
+  ],
+  "countries": [
+
+
+    {
+      "code": "DZ",
+      "name": "アルジェリア民主人民共和国",
+      "population": "4500万人",
+      "status": "illegal",
+      "penalty": "禁固5〜10年",
+      "description": "刑法第160条bisにより、国旗の故意の公開的な破損・毀損は犯罪。2010年には仕事と住宅を求める抗議活動で18人が有罪となり、最長6年の禁固と1万ドルの罰金が科された。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "AO",
+      "name": "アンゴラ共和国",
+      "population": "3500万人",
+      "status": "illegal",
+      "penalty": "最長3年の禁固刑",
+      "description": "国家の象徴に対する冒涜は刑法で禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BJ",
+      "name": "ベナン共和国",
+      "population": "1300万人",
+      "status": "illegal",
+      "penalty": "罰金または禁固刑",
+      "description": "2018年に施行された新刑法により、国旗に対する公然の侮辱（outrage au drapeau）は国家に対する犯罪として罰せられます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BW",
+      "name": "ボツワナ共和国",
+      "population": "270万人",
+      "status": "illegal",
+      "penalty": "6ヶ月〜4年の禁固、または罰金",
+      "description": "国旗を言葉や行動で侮辱する行為は、刑罰の対象となります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BF",
+      "name": "ブルキナファソ",
+      "population": "2200万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "2018年の刑法および大統領令（2018-0508）により、国旗の毀損や不敬な扱いは禁じられています。軍人の場合は軍法会議で最大5年の禁固刑に処されることもあります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BI",
+      "name": "ブルンジ共和国",
+      "population": "1200万人",
+      "status": "illegal",
+      "penalty": "最長2年の禁固刑",
+      "description": "国家の象徴に対する侮辱は刑法で禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CV",
+      "name": "カーボベルデ共和国",
+      "population": "56万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法第161条により、国家の象徴（国旗を含む）に対する公然の侮辱（ultrajes a símbolos nacionais）は犯罪です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CM",
+      "name": "カメルーン共和国",
+      "population": "2800万人",
+      "status": "illegal",
+      "penalty": "最長5年の禁固刑",
+      "description": "公の場での国旗の冒涜や毀損は重い罪に問われます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CF",
+      "name": "中央アフリカ共和国",
+      "population": "540万人",
+      "status": "illegal",
+      "penalty": "罰金または禁固刑",
+      "description": "刑法により、国家の象徴である国旗に対する侮辱（outrage au drapeau）は公共の秩序を乱す行為として禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "TD",
+      "name": "チャド共和国",
+      "population": "1700万人",
+      "status": "illegal",
+      "penalty": "最長2年の禁固刑",
+      "description": "国旗への侮辱行為は法律で制限されています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "KM",
+      "name": "コモロ連合",
+      "population": "88万人",
+      "status": "illegal",
+      "penalty": "最長5年の禁固刑",
+      "description": "国家の尊厳を損なう行為として厳しく罰せられます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CD",
+      "name": "コンゴ民主共和国",
+      "population": "1億人",
+      "status": "illegal",
+      "penalty": "6ヶ月〜5年の禁固刑",
+      "description": "軍刑法第87条により国旗損壊は厳しく罰せられます。一般法においても国家の象徴に対する不敬行為は犯罪です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CG",
+      "name": "コンゴ共和国",
+      "population": "580万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法により、国家の象徴（エスカッシャン等）に対するあらゆる「侮辱（outrage）」が禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CI",
+      "name": "コートジボワール共和国",
+      "population": "2700万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "1981年の刑法第241条により、国旗に対する侮辱は犯罪として処罰の対象となります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "DJ",
+      "name": "ジブチ共和国",
+      "population": "100万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法により、公の場での国旗に対する「侮辱（outrage）」は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "EG",
+      "name": "エジプト・アラブ共和国",
+      "population": "1億500万人",
+      "status": "illegal",
+      "penalty": "罰金3万エジプトポンド（約13万円）以下",
+      "description": "2014年以降、国旗の毀損は違法。",
+      "closing": "今あなたがやったことで罰金を科される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "GQ",
+      "name": "赤道ギニア共和国",
+      "population": "145万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法（Código Penal）において、国旗に対する公然の侮辱（ultrajes a la bandera）は犯罪とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "ER",
+      "name": "エリトリア国",
+      "population": "360万人",
+      "status": "illegal",
+      "penalty": "最長7年の禁固刑",
+      "description": "国家の象徴を損なう行為は重大な犯罪とみなされます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SZ",
+      "name": "エスワティニ王国",
+      "population": "118万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "扇動および破壊活動防止法（Seditions and Subversive Activities Act）等に基づき、国家の象徴に対する不敬行為は厳しく制限されています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "ET",
+      "name": "エチオピア連邦民主共和国",
+      "population": "1億2600万人",
+      "status": "illegal",
+      "penalty": "罰金3000〜5000ブル、または禁固1〜3年",
+      "description": "2009年の国旗布告により、国旗の毀損・汚損は違法。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "GA",
+      "name": "ガボン共和国",
+      "population": "230万人",
+      "status": "illegal",
+      "penalty": "最長1年の禁固刑または500万FCFAの罰金",
+      "description": "2020年施行の新刑法（第85・86条）により、国旗に対する侮辱（outrage au drapeau）は厳しく罰せられます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "GM",
+      "name": "ガンビア共和国",
+      "population": "230万人",
+      "status": "illegal",
+      "penalty": "最高で終身刑（状況による）",
+      "description": "国家の象徴への重大な反逆的行為とみなされた場合、極めて重い罰が科される可能性があります。",
+      "closing": "人生が終わる可能性がある国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "GH",
+      "name": "ガーナ共和国",
+      "population": "3300万人",
+      "status": "illegal",
+      "penalty": "最長3年の禁固刑",
+      "description": "国旗の不適切な使用や毀損は法律で禁止されています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "GN",
+      "name": "ギニア共和国",
+      "population": "1300万人",
+      "status": "illegal",
+      "penalty": "最長3年の禁固刑",
+      "description": "国家の象徴に対する冒涜は刑罰の対象です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "GW",
+      "name": "ギニアビサウ共和国",
+      "population": "210万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法第126条により、国家の象徴（国旗を含む）に対する侮辱行為は犯罪とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "KE",
+      "name": "ケニア共和国",
+      "population": "5500万人",
+      "status": "illegal",
+      "penalty": "最長6ヶ月の禁固刑または5,000シリングの罰金",
+      "description": "「国旗、紋章および名称法（National Flag, Emblems and Names Act）」により、国旗に対するあらゆる不敬行為や侮辱、不適切な商用利用が禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "LS",
+      "name": "レソト王国",
+      "population": "220万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "国内治安法（Internal Security Act）等により、国家の象徴に対する不敬行為が禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "LR",
+      "name": "リベリア共和国",
+      "population": "530万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法により、国家の象徴である国旗に対する意図的な毀損は犯罪とみなされます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "LY",
+      "name": "リビア国",
+      "population": "700万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MG",
+      "name": "マダガスカル共和国",
+      "population": "2900万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法により、国家の象徴に対する「侮辱（outrage）」は国の名誉を損なう行為として禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MW",
+      "name": "マラウイ共和国",
+      "population": "2000万人",
+      "status": "illegal",
+      "penalty": "最長2年の禁固刑",
+      "description": "「保護された国旗、紋章および名称法（Protected Flag, Emblems and Names Act, 1967）」により、国旗を侮辱したり嘲笑したりする行為は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "ML",
+      "name": "マリ共和国",
+      "population": "2200万人",
+      "status": "illegal",
+      "penalty": "1〜3年の禁固刑",
+      "description": "軍事司法法（Military Justice Code）第146条等により、国旗に対する不敬行為は厳しく罰せられます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MR",
+      "name": "モーリタニア・イスラム共和国",
+      "population": "450万人",
+      "status": "illegal",
+      "penalty": "死刑（極端なケース）",
+      "description": "宗教や国家の象徴への侮辱は、冒涜罪として極めて厳しく処罰されるリスクがあります。",
+      "closing": "命に関わる国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MU",
+      "name": "モーリシャス共和国",
+      "population": "130万人",
+      "status": "illegal",
+      "penalty": "最長5年の禁固刑",
+      "description": "国旗への敬意を欠く行為は法律で罰せられます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MA",
+      "name": "モロッコ王国",
+      "population": "3700万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は刑法により違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MZ",
+      "name": "モザンビーク共和国",
+      "population": "3300万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法第391条により、国家の象徴（国旗を含む）に対する侮辱行為は犯罪とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "NA",
+      "name": "ナミビア共和国",
+      "population": "260万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "「国家旗法（National Symbols Act, 1991）」により、国旗を侮辱したり軽蔑の対象としたりする行為は犯罪です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "NE",
+      "name": "ニジェール共和国",
+      "population": "2500万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法により、国家の象徴に対する「侮辱（outrage）」は公権力への侵害として禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "NG",
+      "name": "ナイジェリア連邦共和国",
+      "population": "2億2000万人",
+      "status": "gray",
+      "description": "国旗の損壊を直接罰する法律はないが、破れた・汚れた国旗を掲揚することは違法。",
+      "closing": "布そのものへの行為は法律の外にあります。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "RW",
+      "name": "ルワンダ共和国",
+      "population": "1400万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "刑法により、国家の象徴（国旗・国歌・国章）に対する不敬行為や侮辱は厳しく罰せられます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "ST",
+      "name": "サントメ・プリンシペ民主共和国",
+      "population": "22万人",
+      "status": "illegal",
+      "penalty": "最長2年の禁固刑または罰金",
+      "description": "刑法第402条により、公の場での国旗に対する不敬行為は犯罪です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SN",
+      "name": "セネガル共和国",
+      "population": "1700万人",
+      "status": "illegal",
+      "penalty": "最長5年の禁固刑",
+      "description": "公の場での国旗損壊は犯罪です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SL",
+      "name": "シエラレオネ共和国",
+      "population": "840万人",
+      "status": "illegal",
+      "penalty": "最高で終身刑",
+      "description": "国家への不敬罪として非常に重い罰則が規定されています。",
+      "closing": "人生が終わる可能性がある国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SO",
+      "name": "ソマリア連邦共和国",
+      "population": "1700万人",
+      "status": "illegal",
+      "penalty": "死刑",
+      "description": "国家や宗教の象徴を侮辱する行為は極刑の対象となることがあります。",
+      "closing": "命に関わる国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "ZA",
+      "name": "南アフリカ共和国",
+      "population": "6000万人",
+      "status": "legal",
+      "description": "国旗損壊を直接禁じる法律はない。",
+      "closing": "合法です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SS",
+      "name": "南スーダン共和国",
+      "population": "1100万人",
+      "status": "illegal",
+      "penalty": "最長10年の禁固刑",
+      "description": "国旗損壊は国家への攻撃とみなされます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SD",
+      "name": "スーダン共和国",
+      "population": "4600万人",
+      "status": "illegal",
+      "penalty": "最高で終身刑",
+      "description": "自国および外国の国旗を毀損することは重大な犯罪です。",
+      "closing": "人生が終わる可能性がある国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "TZ",
+      "name": "タンザニア連合共和国",
+      "population": "6500万人",
+      "status": "legal",
+      "description": "国旗損壊を直接禁じる法律はないとされています。",
+      "closing": "合法です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "TG",
+      "name": "トーゴ共和国",
+      "population": "870万人",
+      "status": "illegal",
+      "penalty": "最長2年の禁固刑または罰金",
+      "description": "2015年刑法第490〜492条により、国旗に対する不敬行為（outrage au drapeau）は処罰の対象です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "TN",
+      "name": "チュニジア共和国",
+      "population": "1200万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "UG",
+      "name": "ウガンダ共和国",
+      "population": "4800万人",
+      "status": "illegal",
+      "penalty": "最長無期懲役（一部の重大な侮辱行為）",
+      "description": "「国旗および紋章法（National Flag and Armorial Ensigns Act）」に基づき、国旗を侮辱・嘲笑する目的での発言や出版、行為が厳しく罰せられます。2026年の選挙期間中も、警察から国旗の不適切な使用に対して強い警告が出されています。",
+      "closing": "今あなたがやったことで、最悪の場合一生を刑務所で過ごすことになる国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "ZM",
+      "name": "ザンビア共和国",
+      "population": "1900万人",
+      "status": "illegal",
+      "penalty": "最長で終身刑",
+      "description": "国家の象徴に対する損壊や侮辱は、国家の尊厳を著しく損なう罪とみなされ、極めて重い罰則が規定されています。",
+      "closing": "今あなたがやったことで、二度と外の世界に戻れなくなる可能性がある国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "ZW",
+      "name": "ジンバブエ共和国",
+      "population": "1600万人",
+      "status": "illegal",
+      "penalty": "最長6ヶ月の禁固刑または200ドルの罰金",
+      "description": "「ジンバブエ国旗法（Flag of Zimbabwe Act, Chapter 10:10）」により、国旗を侮辱したり不敬な扱いをしたりする行為は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+
+
+    {
+      "code": "AG",
+      "name": "アンティグア・バーブーダ",
+      "population": "10万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "「国家象徴法（National Emblems Act）」により、国旗の毀損や不適切な使用が禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "AR",
+      "name": "アルゼンチン共和国",
+      "population": "4600万人",
+      "status": "illegal",
+      "penalty": "禁固1〜4年",
+      "description": "刑法第222条により、国旗・国章・国歌・地方の象徴の公開的な毀損は犯罪とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BS",
+      "name": "バハマ国",
+      "population": "40万人",
+      "status": "illegal",
+      "penalty": "500ドルの罰金または6ヶ月の禁固",
+      "description": "「国旗および紋章法（Flags and Coat of Arms Act）」により、国旗の毀損や侮辱は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BB",
+      "name": "バルバドス",
+      "population": "28万人",
+      "status": "illegal",
+      "penalty": "1000ドルの罰金または1年の禁固",
+      "description": "国家の象徴（紋章や国旗）を切り刻む、破る、汚すなどの行為は違法です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BZ",
+      "name": "ベリーズ",
+      "population": "40万人",
+      "status": "illegal",
+      "penalty": "1000ベリーズドルの罰金または最長1年の禁固",
+      "description": "「2025年国家象徴法（National Symbols Bill 2025）」により、国旗の毀損や汚損は厳しく罰せられます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BO",
+      "name": "ボリビア多民族国",
+      "population": "1200万人",
+      "status": "illegal",
+      "penalty": "6ヶ月〜2年の禁固",
+      "description": "国家の象徴に対する侮辱は刑法（desacato）で禁じられてきましたが、近年一部の適用範囲について議論があります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BR",
+      "name": "ブラジル連邦共和国",
+      "population": "2億1500万人",
+      "status": "illegal",
+      "penalty": "禁固1ヶ月以下および罰金（軍人は1〜2年）",
+      "description": "国旗法（法律5700号）により、国旗の毀損・汚損は違法。軍の刑法では軍人の場合1〜2年の拘禁刑。",
+      "closing": "今あなたがやったことで罰せられる国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CA",
+      "name": "カナダ",
+      "population": "3900万人",
+      "status": "legal",
+      "description": "国旗損壊を禁じる法律はない。カナダ権利自由憲章により表現の自由として保護されています。",
+      "closing": "合法です。つまらないですね。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CL",
+      "name": "チリ共和国",
+      "population": "1900万人",
+      "status": "illegal",
+      "penalty": "禁固最大1年",
+      "description": "国家内部安全法第6・7条により、国旗・国章・国歌・国名の公開的な毀損は犯罪とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CO",
+      "name": "コロンビア共和国",
+      "population": "5200万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法により国家の象徴（国旗、紋章、国歌）への侮辱が禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CR",
+      "name": "コスタリカ共和国",
+      "population": "510万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "1964年の法律により、国旗等の国家象徴に対する不敬な使用は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CU",
+      "name": "キューバ共和国",
+      "population": "1100万人",
+      "status": "illegal",
+      "penalty": "罰金1〜5000米ドル相当",
+      "description": "国旗の毀損は違法とされています。自国および外国の国旗の損壊も禁じています。",
+      "closing": "今あなたがやったことで罰金を科される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "DM",
+      "name": "ドミニカ国",
+      "population": "7万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "「1978年国家象徴法（National Emblems Act, 1978）」により、国旗への不敬行為や無断の変更が禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "DO",
+      "name": "ドミニカ共和国",
+      "population": "1100万人",
+      "status": "illegal",
+      "penalty": "禁固1〜3ヶ月および罰金",
+      "description": "愛国的シンボルに関する法律（法律210-19）により、国旗の毀損は1〜3ヶ月の禁固と最低賃金5〜20倍の罰金が科されます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "EC",
+      "name": "エクアドル共和国",
+      "population": "1800万人",
+      "status": "gray",
+      "penalty": "行政罰（公務員等）",
+      "description": "2014年の刑法改正により、一般市民による国旗損壊を直接罰する条項は削除されました。ただし、公務員等には厳しい行政罰があるほか、外国人による「国家の安全を脅かす行為」としてビザ取消の対象となった事例（2024年）があります。",
+      "closing": "法的なグレーゾーンですが、社会的・行政的には厳しく扱われる国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SV",
+      "name": "エルサルバドル共和国",
+      "population": "640万人",
+      "status": "illegal",
+      "penalty": "罰金（10〜20日分の収入相当）",
+      "description": "刑法第396条「愛国的シンボルに対する軽蔑」により、国旗・国章・国歌への侮辱は罰金の対象となります。",
+      "closing": "今あなたがやったことで罰金を科される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "GD",
+      "name": "グレナダ",
+      "population": "11万人",
+      "status": "illegal",
+      "penalty": "1000ドルの罰金または6ヶ月の禁固",
+      "description": "「国家象徴法（National Emblems Act）」により、国旗の毀損や汚損は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "GT",
+      "name": "グアテマラ共和国",
+      "population": "1700万人",
+      "status": "illegal",
+      "penalty": "6ヶ月〜2年の禁固",
+      "description": "刑法第416条「国家象徴への冒涜」により、国旗等の焼却・踏みつけ等の行為は処罰の対象となります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "GY",
+      "name": "ガイアナ共和国",
+      "population": "79万人",
+      "status": "gray",
+      "description": "国旗損壊を直接罰する特定の刑法は存在しないとされていますが、公衆の面前での行為は公序良俗に反する行為や「治安を乱す行為（disorderly conduct）」として訴追される可能性があります。",
+      "closing": "直接的な法律はありませんが、周囲からの非難や別の罪を問われるリスクがあります。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "HT",
+      "name": "ハイチ共和国",
+      "population": "1100万人",
+      "status": "illegal",
+      "penalty": "終身強制労働（1929年法）",
+      "description": "1929年の特別法により、国旗の毀損には終身強制労働が科される。世界で最も重い国旗損壊罰則の一つ。",
+      "closing": "今あなたがやったことは終身強制労働に相当します。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "HN",
+      "name": "ホンジュラス共和国",
+      "population": "1000万人",
+      "status": "illegal",
+      "penalty": "6ヶ月〜1年の禁固",
+      "description": "刑法第538条により、公の場での国家象徴（国旗等）に対する侮辱行為は犯罪とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "JM",
+      "name": "ジャマイカ",
+      "population": "290万人",
+      "status": "legal",
+      "description": "国旗損壊を罰する法律は存在しません。むしろ公式エチケットでは、古くなった国旗の処分方法として「焼却」が推奨されています。",
+      "closing": "合法です。むしろ燃やすことが推奨される場合すらあります。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MX",
+      "name": "メキシコ合衆国",
+      "population": "1億2900万人",
+      "status": "illegal",
+      "penalty": "禁固刑（ほとんど執行されない）",
+      "description": "国旗損壊は違法だが、ほとんど起訴されない。例外として2008年、詩の中で国旗を毀損した詩人が有罪となった。",
+      "closing": "違法ですが、ほとんど誰も逮捕されていない国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "NI",
+      "name": "ニカラグア共和国",
+      "population": "670万人",
+      "status": "illegal",
+      "penalty": "罰金（18.71〜93.57米ドル相当）",
+      "description": "国旗の毀損は違法で罰金が科されます。",
+      "closing": "今あなたがやったことで罰金を科される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "PA",
+      "name": "パナマ共和国",
+      "population": "440万人",
+      "status": "illegal",
+      "penalty": "罰金または行政罰",
+      "description": "1949年の法律第34号（2012年改正）により、国家象徴に対する侮辱行為や不適切な使用は禁止されています。",
+      "closing": "今あなたがやったことで罰せられる国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "PY",
+      "name": "パラグアイ共和国",
+      "population": "740万人",
+      "status": "illegal",
+      "penalty": "罰金（50〜200日分の収入相当）",
+      "description": "2013年の大統領令（No. 11,400/13）により、国家象徴（国旗・国章・国歌）の不適切または侮辱的な使用は行政上の罰則の対象となります。",
+      "closing": "今あなたがやったことで罰金を科される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "PE",
+      "name": "ペルー共和国",
+      "population": "3300万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "刑法第344条において、国家の象徴（旗、紋章、国歌など）を侮辱、破壊、損傷させる行為は犯罪とされています。",
+      "closing": "今あなたがやったことで、刑務所行きになる可能性がある国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "KN",
+      "name": "セントクリストファー・ネイビス",
+      "population": "5万人",
+      "status": "gray",
+      "penalty": "罰金最大500XCDまたは最長6ヶ月の禁固",
+      "description": "「国家象徴法（National Emblems Act）」および軽微罪法（Small Charges Act）により、国家象徴に対する不敬行為は「侮辱的な言動」や「治安を乱す行為」として処罰される可能性があります。",
+      "closing": "直接的な国旗損壊罪はありませんが、不敬な扱いは逮捕に繋がる可能性があります。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "LC",
+      "name": "セントルシア",
+      "population": "18万人",
+      "status": "gray",
+      "description": "国旗損壊を直接罰する法律はありませんが、刑法第563条（不正かつ放浪）により、公の場で「侮辱的な記述や物体」を掲示する行為として処罰される可能性があります。",
+      "closing": "法的には不透明ですが、公の場での損壊は別の罪に問われるリスクがあります。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "VC",
+      "name": "セントビンセント・グレナディーン",
+      "population": "11万人",
+      "status": "illegal",
+      "penalty": "最長5年の禁固刑",
+      "description": "刑法（扇動罪等）により、国家やその象徴を侮辱する行為は厳しく罰せられる可能性があります。",
+      "closing": "今あなたがやったことで、重い刑罰を受ける可能性がある国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SR",
+      "name": "スリナム共和国",
+      "population": "60万人",
+      "status": "illegal",
+      "penalty": "最長6ヶ月の禁固刑",
+      "description": "刑法第176a条により、国旗に対して意図的に不敬な表現（公然と口頭、書面、画像等で）をすることは犯罪とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "TT",
+      "name": "トリニダード・トバゴ共和国",
+      "population": "140万人",
+      "status": "illegal",
+      "penalty": "750ドルの罰金または6ヶ月の禁固",
+      "description": "「国家象徴法（National Emblems Act）」により、国旗を切り刻んだり汚したりする行為は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "US",
+      "name": "アメリカ合衆国",
+      "population": "3億3500万人",
+      "status": "legal",
+      "description": "1989年、テキサス州対ジョンソン事件。国旗を燃やした男性が逮捕された。最高裁は5対4で「表現の自由」と判断。以来35年間、合法のままです。\n\n2025年、トランプ大統領は国旗損壊を訴追する大統領令に署名した。しかし最高裁の判例を覆す法的拘束力はなく、合法のままです。",
+      "closing": "合法です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "UY",
+      "name": "ウルグアイ東方共和国",
+      "population": "350万人",
+      "status": "legal",
+      "description": "国旗損壊を直接罰する特定の刑法は存在しないとされています。",
+      "closing": "合法です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "VE",
+      "name": "ベネズエラ・ボリバル共和国",
+      "population": "2800万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法により、国家の象徴に対する不敬行為や毀損は犯罪とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+
+
+    {
+      "code": "AF",
+      "name": "アフガニスタン・イスラム首長国",
+      "population": "4000万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "AM",
+      "name": "アルメニア共和国",
+      "population": "300万人",
+      "status": "illegal",
+      "penalty": "最大2年の社会奉仕活動または最大1年の禁固",
+      "description": "刑法により、国旗・国章・国歌への侮辱は犯罪とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "AZ",
+      "name": "アゼルバイジャン共和国",
+      "population": "1000万人",
+      "status": "illegal",
+      "penalty": "禁固最大1年",
+      "description": "刑法第324条により、国旗または国章の毀損は最大1年の禁固刑が科されます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BH",
+      "name": "バーレーン王国",
+      "population": "170万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BD",
+      "name": "バングラデシュ人民共和国",
+      "population": "1億7000万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BT",
+      "name": "ブータン王国",
+      "population": "77万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "「ブータン国旗法（National Flag Act of Bhutan, 1972）」および刑法により、国旗に対する毀損や不敬行為は犯罪です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BN",
+      "name": "ブルネイ・ダルサラーム国",
+      "population": "44万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "KH",
+      "name": "カンボジア王国",
+      "population": "1700万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CN",
+      "name": "中華人民共和国",
+      "population": "14億人",
+      "status": "illegal",
+      "penalty": "禁固最大3年",
+      "description": "刑法第299条により、公の場での国旗・国章の焼却・毀損・落書き・汚損・踏みつけは最大3年の禁固刑。香港・マカオにも同様の法律が適用されています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CY",
+      "name": "キプロス共和国",
+      "population": "130万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法（Cap 154）第132条により、国家のシンボルや徽章に対する侮辱は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "GE",
+      "name": "ジョージア",
+      "population": "370万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法第343条により、国旗または国章の毀損は犯罪として定義されています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "IN",
+      "name": "インド",
+      "population": "14億人",
+      "status": "illegal",
+      "penalty": "禁固最大3年および罰金",
+      "description": "国旗規程（2002年）および防止法により、国旗の毀損・汚損は最大3年の禁固刑に相当します。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "ID",
+      "name": "インドネシア共和国",
+      "population": "2億7000万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "IR",
+      "name": "イラン・イスラム共和国",
+      "population": "8700万人",
+      "status": "legal",
+      "description": "国旗損壊を直接禁じる明確な成文法はないとされています（米国議会図書館の調査より）。",
+      "closing": "直接罰する法律はないとされています。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "IQ",
+      "name": "イラク共和国",
+      "population": "4300万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "IL",
+      "name": "イスラエル国",
+      "population": "950万人",
+      "status": "illegal",
+      "penalty": "罰金最大約240万円（約1万6000米ドル）および禁固最大3年",
+      "description": "2016年、罰則が大幅に引き上げられました。罰金の上限は約240万円。多くの起訴事例があります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "JP",
+      "name": "日本国",
+      "population": "1億2400万人",
+      "status": "gray",
+      "description": "自衛隊旗への侮辱については2022年4月から罰則が設けられましたが、日章旗（日の丸）を直接対象とした包括的な国旗損壊罪は現時点で存在しません。\n\n2024年、刑事罰化が議論されました。提案された罰則：懲役2年または罰金50万円。",
+      "closing": "今あなたがやったことへの法律は、まだ存在しないかもしれません。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "JO",
+      "name": "ヨルダン・ハシェミット王国",
+      "population": "1000万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "KZ",
+      "name": "カザフスタン共和国",
+      "population": "1900万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "KW",
+      "name": "クウェート国",
+      "population": "450万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "自国および外国の国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "KG",
+      "name": "キルギス共和国",
+      "population": "660万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "LA",
+      "name": "ラオス人民民主共和国",
+      "population": "740万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "LB",
+      "name": "レバノン共和国",
+      "population": "540万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MY",
+      "name": "マレーシア",
+      "population": "3300万人",
+      "status": "illegal",
+      "penalty": "罰金最大1万リンギット（約30万円）および禁固最大3年",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MV",
+      "name": "モルディブ共和国",
+      "population": "54万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法（Law No. 6/2014）により、意図的な国旗の毀損は罰せられる可能性があります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MN",
+      "name": "モンゴル国",
+      "population": "340万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法（第23.10条等）により、国旗、国章、国歌に対する毀損や侮辱は犯罪です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MM",
+      "name": "ミャンマー連邦共和国",
+      "population": "5400万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "NP",
+      "name": "ネパール連邦民主共和国",
+      "population": "3000万人",
+      "status": "illegal",
+      "penalty": "最長3年の禁固刑または3万ルピーの罰金",
+      "description": "刑法により、国旗の焼却や侮辱は犯罪として規定されています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "KP",
+      "name": "朝鮮民主主義人民共和国",
+      "population": "2600万人",
+      "status": "illegal",
+      "penalty": "詳細不明（重刑が推定される）",
+      "description": "国家の象徴への侮辱は極めて重大な犯罪とみなされます。外部からの情報確認は困難です。",
+      "closing": "今あなたがやったことの罰則は、外部からは確認できません。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "OM",
+      "name": "オマーン国",
+      "population": "450万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "PK",
+      "name": "パキスタン・イスラム共和国",
+      "population": "2億3000万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "PH",
+      "name": "フィリピン共和国",
+      "population": "1億1500万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "国旗を食卓のクロスや車の装飾に使うことも違法。細かな使用規制が定められています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "QA",
+      "name": "カタール国",
+      "population": "290万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SA",
+      "name": "サウジアラビア王国",
+      "population": "3600万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "国旗にはイスラムの信仰宣言（シャハーダ）が記されているため、国旗の毀損は冒涜罪にもあたります。FIFAワールドカップ2002では、サッカーボールに国旗が印刷されることに異議を唱えました。",
+      "closing": "今あなたがやったことは宗教的な冒涜にもあたる国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SG",
+      "name": "シンガポール共和国",
+      "population": "590万人",
+      "status": "illegal",
+      "penalty": "罰金最大5000シンガポールドル（約55万円）および禁固最大12ヶ月",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "LK",
+      "name": "スリランカ民主社会主義共和国",
+      "population": "2200万人",
+      "status": "gray",
+      "description": "国旗損壊を直接罰する特定の刑法条項は現時点で不明確ですが、公序良俗に反する行為や器物損壊、あるいは治安当局による警告の対象となる可能性があります（新法案の議論もあり）。",
+      "closing": "法的には不透明ですが、公の場での損壊は別の罪に問われるリスクがあります。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SY",
+      "name": "シリア・アラブ共和国",
+      "population": "2100万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "TJ",
+      "name": "タジキスタン共和国",
+      "population": "1000万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "TH",
+      "name": "タイ王国",
+      "population": "7200万人",
+      "status": "illegal",
+      "penalty": "禁固刑および罰金",
+      "description": "国旗の毀損は違法。国家および王室への侮辱全般を禁じる不敬罪も存在します。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "TL",
+      "name": "東ティモール民主共和国",
+      "population": "130万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法（法令19/2009）第202条により、国旗等の国家象徴に対する不敬行為（outrage）は犯罪です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "TM",
+      "name": "トルクメニスタン",
+      "population": "600万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "AE",
+      "name": "アラブ首長国連邦",
+      "population": "1000万人",
+      "status": "illegal",
+      "penalty": "禁固10〜25年および罰金50万ディルハム（約2000万円）以上",
+      "description": "自国の国旗だけでなく、7つの首長国旗・湾岸協力会議・外国の国旗への侮辱も違法。世界最高水準の厳罰の一つ。",
+      "closing": "今あなたがやったことは最長25年の禁固に相当する国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "UZ",
+      "name": "ウズベキスタン共和国",
+      "population": "3600万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "VN",
+      "name": "ベトナム社会主義共和国",
+      "population": "9800万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "YE",
+      "name": "イエメン共和国",
+      "population": "3300万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "TW",
+      "name": "中華民国（台湾）",
+      "population": "2350万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "PS",
+      "name": "パレスチナ国",
+      "population": "500万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "ヨルダン刑法（1960年）第191条等が適用される地域では、国旗への侮辱は犯罪として処罰の対象となります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+
+
+    {
+      "code": "AL",
+      "name": "アルバニア共和国",
+      "population": "280万人",
+      "status": "illegal",
+      "penalty": "最長3年の禁固刑（新法案）",
+      "description": "現行法でも罰金や短期刑がありますが、2025年の法改正案で国旗等の損壊への罰則が強化されています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "AD",
+      "name": "アンドラ公国",
+      "population": "7万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "刑法（Codi Penal）第161条により、国旗や国歌等の国家象徴に対する侮辱（ultratge als símbols nacionals）は犯罪です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "AT",
+      "name": "オーストリア共和国",
+      "population": "900万人",
+      "status": "illegal",
+      "penalty": "罰金または禁固最大6ヶ月",
+      "description": "刑法第248条により、国旗の毀損は違法。外交関係にある外国の国旗の毀損も別途禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BY",
+      "name": "ベラルーシ共和国",
+      "population": "940万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BE",
+      "name": "ベルギー王国",
+      "population": "1150万人",
+      "status": "legal",
+      "description": "国旗損壊を禁じる法律はありません。フラマン系民族主義者がベルギー国旗を燃やしたこともあります。",
+      "closing": "合法です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BA",
+      "name": "ボスニア・ヘルツェゴビナ",
+      "population": "330万人",
+      "status": "illegal",
+      "penalty": "罰金（約50〜600ユーロ）",
+      "description": "公共の秩序を乱す行為として、特定の旗の掲示や損壊が処罰されることがあります。",
+      "closing": "今あなたがやったことで罰金を科される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "BG",
+      "name": "ブルガリア共和国",
+      "population": "680万人",
+      "status": "illegal",
+      "penalty": "禁固最大2年および罰金最大約18万円（1600ユーロ）",
+      "description": "国旗およびEU旗の毀損は違法。EU加盟国旗も保護対象です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "HR",
+      "name": "クロアチア共和国",
+      "population": "390万人",
+      "status": "illegal",
+      "penalty": "禁固最大1年",
+      "description": "国旗その他の国家的シンボルの毀損または不敬な扱いは犯罪とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CZ",
+      "name": "チェコ共和国",
+      "population": "1070万人",
+      "status": "gray",
+      "penalty": "罰金のみ",
+      "description": "国旗損壊の罰則は罰金のみ。禁固刑はありません。",
+      "closing": "罰金は科されますが、逮捕はされない国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "DK",
+      "name": "デンマーク王国",
+      "population": "590万人",
+      "status": "gray",
+      "description": "自国の国旗（ダンネブロ）の損壊は合法。しかし外国の国旗・国連旗・欧州評議会旗の損壊は違法（刑法第110e条）。この法律は外交問題への配慮から設けられたもので、最後の有罪判決は1936年です。",
+      "closing": "自分の国の国旗は燃やせる国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "EE",
+      "name": "エストニア共和国",
+      "population": "130万人",
+      "status": "illegal",
+      "penalty": "罰金または拘禁",
+      "description": "刑法第271条（国家旗の使用手順違反）により、エストニア国旗の掲揚や使用要件に違反した場合、最高100罰金ユニットまたは拘禁刑に処されます。",
+      "closing": "今あなたがやったことで、法的な処罰を受ける国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "FI",
+      "name": "フィンランド共和国",
+      "population": "550万人",
+      "status": "illegal",
+      "penalty": "罰金",
+      "description": "国旗法により、国旗の毀損・不敬な扱い・無断撤去は違法。刑法ではなく国旗法に罰則が定められています。",
+      "closing": "罰金は科されますが、禁固刑はありません。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "FR",
+      "name": "フランス共和国",
+      "population": "6800万人",
+      "status": "illegal",
+      "penalty": "罰金最大7500ユーロ（約120万円）および禁固最大6ヶ月",
+      "description": "公的行事での国旗・国歌への侮辱が違法（2010年法）。分立したマルセイユでの試合で国歌への野次が起きたことが立法のきっかけ。プライベートな芸術作品は対象外。",
+      "closing": "公の場でやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "DE",
+      "name": "ドイツ連邦共和国",
+      "population": "8400万人",
+      "status": "illegal",
+      "penalty": "禁固最大5年または罰金",
+      "description": "刑法により、ドイツの国旗だけでなく外国の国旗・EU旗の毀損も禁じられています。外国国旗については相互主義が条件。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "GR",
+      "name": "ギリシャ共和国",
+      "population": "1070万人",
+      "status": "illegal",
+      "penalty": "禁固最大2年または罰金",
+      "description": "刑法第188条により、国旗・国章・国歌への侮辱は違法。外国の国旗への損壊も禁じられています（第155条）。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "HU",
+      "name": "ハンガリー",
+      "population": "970万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国旗損壊は違法。1956年のハンガリー革命では、群衆が国旗から共産主義の紋章を切り取った。その「穴あき国旗」は抵抗のシンボルとなりました。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "IS",
+      "name": "アイスランド共和国",
+      "population": "37万人",
+      "status": "illegal",
+      "penalty": "罰金または最長1年の禁固刑",
+      "description": "1944年の法律（No. 34/1944）により、国旗を言葉や行為で侮辱することは禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "IE",
+      "name": "アイルランド",
+      "population": "520万人",
+      "status": "legal",
+      "penalty": "なし（法的処罰の規定なし）",
+      "description": "憲法で表現の自由が保護されており、国旗へのスローガン記入や損壊を直接罰する法律は存在しません。ただし、公序良俗に反する行為や憎悪の扇動とみなされる場合は別の罪に問われる可能性があります。",
+      "closing": "この布をどう扱おうと、法律で罰せられることはない国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "IT",
+      "name": "イタリア共和国",
+      "population": "6000万人",
+      "status": "gray",
+      "penalty": "罰金のみ",
+      "description": "国旗の毀損は違法ですが、罰則は罰金のみ。禁固刑はありません。",
+      "closing": "罰金は科されますが、逮捕はされない国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "LV",
+      "name": "ラトビア共和国",
+      "population": "180万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "LI",
+      "name": "リヒテンシュタイン公国",
+      "population": "3万8000人",
+      "status": "illegal",
+      "penalty": "最長1年の禁固刑",
+      "description": "刑法（StGB）第248条により、国家およびその象徴を毀損・侮辱する行為は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "LT",
+      "name": "リトアニア共和国",
+      "population": "280万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "LU",
+      "name": "ルクセンブルク大公国",
+      "population": "66万人",
+      "status": "illegal",
+      "penalty": "8日〜3ヶ月の禁固および罰金",
+      "description": "1972年の法律により、国旗に対する不適切な使用や「侮辱（outrage）」が禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MT",
+      "name": "マルタ共和国",
+      "population": "52万人",
+      "status": "illegal",
+      "penalty": "最長3ヶ月の禁固または罰金",
+      "description": "出版法（Press Act）等により、国旗に対する侮辱や軽蔑の表明は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MD",
+      "name": "モルドバ共和国",
+      "population": "260万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "2010年の国旗法により、国旗の意図的な毀損や不敬な扱いは禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MC",
+      "name": "モナコ公国",
+      "population": "3万6000人",
+      "status": "illegal",
+      "penalty": "最長5年の禁固刑",
+      "description": "刑法により、大公または国家の象徴（国旗等）に対する「侮辱（outrage）」は厳しく罰せられます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "ME",
+      "name": "モンテネグロ",
+      "population": "62万人",
+      "status": "illegal",
+      "penalty": "最長1年の禁固刑または罰金",
+      "description": "刑法（第198条）により、国旗を公然と嘲笑したり毀損したりする行為は犯罪です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "NL",
+      "name": "オランダ王国",
+      "population": "1750万人",
+      "status": "legal",
+      "description": "国旗損壊を禁じる法律は存在しません。調査対象国の中で唯一、他の法律でも訴追できないとされた国です。",
+      "closing": "完全に合法です。つまらないですね。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MK",
+      "name": "北マケドニア共和国",
+      "population": "200万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "1997年の国家象徴法により、国旗の毀損や不敬な扱いは禁じられています。憎悪を煽る場合はさらに重い刑罰が科されます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "NO",
+      "name": "ノルウェー王国",
+      "population": "540万人",
+      "status": "legal",
+      "description": "国旗損壊を直接禁じる法律はないとされています。",
+      "closing": "合法です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "PL",
+      "name": "ポーランド共和国",
+      "population": "3800万人",
+      "status": "illegal",
+      "penalty": "罰金、自由の制限（1〜12ヶ月）、または禁固最大1年",
+      "description": "刑法に3種類の罰則が定められています：罰金・自由の制限・禁固刑。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "PT",
+      "name": "ポルトガル共和国",
+      "population": "1030万人",
+      "status": "illegal",
+      "penalty": "最長2年の禁固または罰金",
+      "description": "刑法第332条により、国旗等の国家象徴に対する公然の侮辱は処罰の対象となります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "RO",
+      "name": "ルーマニア",
+      "population": "1900万人",
+      "status": "illegal",
+      "penalty": "禁固刑",
+      "description": "国家の象徴への侮辱は違法とされています。1989年の革命では、人々が国旗から共産主義の紋章を切り取りました。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "RU",
+      "name": "ロシア連邦",
+      "population": "1億4400万人",
+      "status": "illegal",
+      "penalty": "自由の制限最大2年または拘禁3〜6ヶ月",
+      "description": "刑法により、国旗の公開的な毀損は最大2年の自由の制限または3〜6ヶ月の拘禁。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SM",
+      "name": "サンマリノ共和国",
+      "population": "3万4000人",
+      "status": "illegal",
+      "penalty": "最長2年の禁固または罰金",
+      "description": "刑法第292条「国旗に対する軽蔑（Vilipendio alla bandiera）」により、毀損や侮辱は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "RS",
+      "name": "セルビア共和国",
+      "population": "680万人",
+      "status": "illegal",
+      "penalty": "最高50万RSDの罰金",
+      "description": "2009年の国家象徴法により、国旗を損傷させたり、不敬な方法で掲示したりする行為は禁じられています。",
+      "closing": "今あなたがやったことで罰金を科される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SK",
+      "name": "スロバキア共和国",
+      "population": "550万人",
+      "status": "illegal",
+      "penalty": "罰金または禁固刑",
+      "description": "刑法第364条（秩序を乱す行為）において、公の場で国家の象徴（国旗を含む）を損壊する行為は犯罪として定義されています。",
+      "closing": "今あなたがやったことで、警察の取り調べを受けることになる国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SI",
+      "name": "スロベニア共和国",
+      "population": "210万人",
+      "status": "illegal",
+      "penalty": "最長1年の禁固または罰金",
+      "description": "刑法第163条により、国旗、国章、国歌を公然と侮辱する行為は犯罪です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "ES",
+      "name": "スペイン王国",
+      "population": "4700万人",
+      "status": "illegal",
+      "penalty": "罰金または禁固7〜12ヶ月",
+      "description": "州のシンボルへの侮辱も犯罪。王室への脅迫は禁固3〜6年。罰金額は最大約1600万円（ユーロ建て）になる場合もあります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SE",
+      "name": "スウェーデン王国",
+      "population": "1050万人",
+      "status": "legal",
+      "description": "国旗損壊を直接禁じる法律はないとされています。騒乱行為として訴追される可能性はあります。",
+      "closing": "合法です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "CH",
+      "name": "スイス連邦",
+      "population": "880万人",
+      "status": "illegal",
+      "penalty": "罰金最大約380万円（3万1500米ドル相当）",
+      "description": "自国および外国の国旗の毀損はいずれも違法。罰金額は世界的に見ても高水準です。",
+      "closing": "今あなたがやったことで高額の罰金を科される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "UA",
+      "name": "ウクライナ",
+      "population": "4300万人",
+      "status": "illegal",
+      "penalty": "禁固最大1年",
+      "description": "国家的シンボルの毀損（国旗を含む）は最大1年の禁固刑に相当します。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "GB",
+      "name": "グレートブリテン及び北アイルランド連合王国",
+      "population": "6800万人",
+      "status": "legal",
+      "description": "イングランド・ウェールズ法およびスコットランド法のいずれにも「国旗損壊」という概念は存在しません。",
+      "closing": "合法です。つまらないですね。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "VA",
+      "name": "バチカン市国",
+      "population": "800人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "基本法等により、主権の象徴である国旗や教皇に対する不敬行為は犯罪（outrage）として処罰の対象となります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+
+
+    {
+      "code": "AU",
+      "name": "オーストラリア連邦",
+      "population": "2600万人",
+      "status": "legal",
+      "description": "国旗損壊を禁じる法律はない。ただし火災の危険など別の法律で訴追されることはある。1989〜1992年に禁止法案が4回提出されたが、いずれも否決されました。",
+      "closing": "合法です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "FJ",
+      "name": "フィジー共和国",
+      "population": "93万人",
+      "status": "illegal",
+      "penalty": "罰金または禁固刑",
+      "description": "「2015年国家旗保護法（National Flag Protection Act 2015）」により、許可なく国旗を損壊、不適切に使用、または商用利用する行為が禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "KI",
+      "name": "キリバス共和国",
+      "population": "12万人",
+      "status": "illegal",
+      "penalty": "最長14年の禁固刑",
+      "description": "国旗損壊に対して非常に厳しい罰則を設けており、国家の尊厳を侮辱する行為は重罪とみなされます。",
+      "closing": "今あなたがやったことで、10年以上刑務所で過ごすことになる国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "MH",
+      "name": "マーシャル諸島共和国",
+      "population": "4万2000人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "「国家旗法（National Flag Act）」により、国旗の毀損や不敬な使用は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "FM",
+      "name": "ミクロネシア連邦",
+      "population": "11万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "国家旗コード（National Flag Code）により、国旗の毀損や不適切な使用は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "NR",
+      "name": "ナウル共和国",
+      "population": "1万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "「1968年国家旗法（National Flag Act 1968）」により、国旗への不敬行為や毀損は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "NZ",
+      "name": "ニュージーランド",
+      "population": "510万人",
+      "status": "gray",
+      "penalty": "罰金のみ",
+      "description": "国旗損壊は禁止されていますが、罰則は罰金のみ。禁固刑はありません。",
+      "closing": "罰金は科されますが、逮捕はされない国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "PW",
+      "name": "パラオ共和国",
+      "population": "1万8000人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "パラオ国家旗法（Palau National Flag Act）により、国旗の不適切な使用や毀損は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "PG",
+      "name": "パプアニューギニア独立国",
+      "population": "1000万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "「1971年国家アイデンティティ法（National Identity Act 1971）」により、国旗の毀損は罰則の対象となります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "WS",
+      "name": "サモア独立国",
+      "population": "22万人",
+      "status": "illegal",
+      "penalty": "最長6ヶ月の禁固または罰金",
+      "description": "国旗に対して意図的に辱めを与える行為（言動、行為を含む）は、刑罰の対象となります。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "SB",
+      "name": "ソロモン諸島",
+      "population": "72万人",
+      "status": "illegal",
+      "penalty": "最長14年の禁固刑",
+      "description": "国家の象徴に対する不敬行為には非常に重い罰則が設けられています。",
+      "closing": "今あなたがやったことで長く刑務所に入ることになる国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "TO",
+      "name": "トンガ王国",
+      "population": "10万人",
+      "status": "illegal",
+      "penalty": "最長10年の禁固刑",
+      "description": "国旗への損壊行為は厳しく罰せられます。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "TV",
+      "name": "ツバル",
+      "population": "1万1000人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "「ツバル国家旗法」により、国旗の毀損や不敬な使用は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "VU",
+      "name": "バヌアツ共和国",
+      "population": "33万人",
+      "status": "illegal",
+      "penalty": "禁固刑または罰金",
+      "description": "「国家旗法」および「国家旗および紋章法」により、国家象徴に対する毀損は禁じられています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+
+
+    {
+      "code": "XK",
+      "name": "コソボ共和国",
+      "population": "180万人",
+      "status": "illegal",
+      "penalty": "最長1年の禁固または罰金",
+      "description": "刑法第134条により、国旗等の国家象徴を公然と嘲笑したり、毀損したりする行為は犯罪です。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    },
+    {
+      "code": "KR",
+      "name": "大韓民国",
+      "population": "5200万人",
+      "status": "illegal",
+      "penalty": "禁固複数年",
+      "description": "国旗の毀損は違法とされています。",
+      "closing": "今あなたがやったことで逮捕される国です。",
+      "material": "ポリエステル65% 綿35%"
+    }
+
+  ]
+}
