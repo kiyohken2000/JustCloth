@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Privacy Policy - Just Cloth</title>
+  <title>Support & Privacy Policy - Just Cloth</title>
   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
@@ -14,14 +14,15 @@
       line-height: 1.8;
     }
     h1 { font-size: 2rem; margin-bottom: 0.2em; }
-    h2 { font-size: 1.2rem; margin-top: 2em; color: #333; }
+    h2 { font-size: 1.3rem; margin-top: 2.5em; border-bottom: 1px solid #eee; padding-bottom: 0.3em; }
+    h3 { font-size: 1.1rem; margin-top: 1.5em; color: #333; }
     p, li { font-size: 1rem; color: #444; }
     .updated { color: #888; font-size: 0.9rem; margin-bottom: 2em; }
     a { color: #0066cc; }
     .lang-toggle {
       display: flex;
       gap: 12px;
-      margin-bottom: 2em;
+      margin-bottom: 2.5em;
     }
     .lang-toggle button {
       padding: 6px 16px;
@@ -38,90 +39,125 @@
     }
     .lang-section { display: none; }
     .lang-section.active { display: block; }
+    .contact-box {
+      background: #f7f7f7;
+      border-radius: 8px;
+      padding: 16px 20px;
+      margin-top: 1em;
+    }
     hr { margin-top: 3em; border: none; border-top: 1px solid #eee; }
-    footer { color: #aaa; font-size: 0.85rem; text-align: center; margin-top: 1em; }
+    footer { color: #aaa; font-size: 0.85rem; text-align: center; margin-top: 1em; padding-bottom: 3em; }
   </style>
 </head>
 <body>
 
-  <h1>Privacy Policy</h1>
-  <p class="updated">Last updated: March 2, 2025</p>
+  <h1>Just Cloth</h1>
+  <p class="updated">Support &amp; Privacy Policy — Last updated: March 2, 2025</p>
 
   <div class="lang-toggle">
-    <button class="active" onclick="switchLang('ja')">日本語</button>
-    <button onclick="switchLang('en')">English</button>
+    <button class="active" onclick="switchLang('ja', event)">日本語</button>
+    <button onclick="switchLang('en', event)">English</button>
   </div>
 
   <!-- 日本語 -->
   <div class="lang-section active" id="lang-ja">
 
+    <h2>サポート</h2>
+
+    <h3>お問い合わせ</h3>
+    <p>バグの報告・ご要望・ご質問は以下の連絡先までお気軽にどうぞ。</p>
+    <div class="contact-box">
+      <p>📧 メール：<a href="mailto:retwpay@gmail.com">retwpay@gmail.com</a></p>
+      <p>🐛 バグ報告：<a href="https://github.com/kiyohken2000/JustCloth/issues">GitHub Issues</a></p>
+    </div>
+
+    <h3>よくある質問</h3>
+    <p><strong>Q. 進捗データが消えた</strong><br>
+    アプリを削除するとデータも消去されます。現時点ではバックアップ機能はありません。</p>
+
+    <p><strong>Q. 対応デバイスは？</strong><br>
+    Apple Vision Pro（visionOS 2.0以上）専用です。iPhone・iPad・Macには対応していません。</p>
+
+    <p><strong>Q. 国旗のデータや法律情報を修正したい</strong><br>
+    <a href="https://github.com/kiyohken2000/JustCloth/issues">GitHub Issues</a> または上記メールアドレスにご連絡ください。</p>
+
+    <h2>プライバシーポリシー</h2>
+
     <p>
       Just Cloth（以下「本アプリ」）は、kiyohken2000が開発した
       Apple Vision Pro専用の教育・政治風刺インタラクティブアート作品です。
-      本プライバシーポリシーでは、本アプリにおける情報の取り扱いについて説明します。
     </p>
 
-    <h2>収集する情報</h2>
+    <h3>収集する情報</h3>
     <p>
       本アプリは<strong>個人情報を一切収集しません</strong>。
       外部サーバーへのデータ送信も行いません。
     </p>
 
-    <h2>デバイス内に保存するデータ</h2>
-    <p>本アプリは以下のデータをお使いのデバイス内のみに保存します（Apple の UserDefaults を使用）。</p>
+    <h3>デバイス内に保存するデータ</h3>
+    <p>以下のデータをお使いのデバイス内のみに保存します（Apple の UserDefaults を使用）。</p>
     <ul>
-      <li>廃棄済み国の記録（ゲームの進捗）</li>
+      <li>廃棄済み国の記録（進捗データ）</li>
       <li>選択中のBGM設定</li>
       <li>各国に対して使用した廃棄方法</li>
     </ul>
     <p>これらのデータがデバイス外に送信されることはありません。アプリを削除することでデータも消去されます。</p>
 
-    <h2>第三者サービス</h2>
-    <p>
-      本アプリは、アナリティクス・広告・トラッキングなどの第三者サービスを使用していません。
-      通常の使用中にネットワーク通信は発生しません。
-    </p>
+    <h3>第三者サービス</h3>
+    <p>アナリティクス・広告・トラッキングなどの第三者サービスは使用していません。通常の使用中にネットワーク通信は発生しません。</p>
 
-    <h2>位置情報</h2>
+    <h3>位置情報</h3>
     <p>本アプリは位置情報を取得・使用しません。</p>
 
-    <h2>お子様のプライバシー</h2>
-    <p>
-      本アプリは12歳以上を対象としており、12歳未満のお子様を対象としたものではありません。
-      12歳未満の方から意図的に情報を収集することはありません。
-    </p>
+    <h3>お子様のプライバシー</h3>
+    <p>本アプリは12歳以上を対象としており、12歳未満の方から意図的に情報を収集することはありません。</p>
 
-    <h2>本ポリシーの変更</h2>
-    <p>
-      本プライバシーポリシーは予告なく変更される場合があります。
-      変更があった場合は、このページの「最終更新日」を更新します。
-    </p>
+    <h3>本ポリシーの変更</h3>
+    <p>本プライバシーポリシーは予告なく変更される場合があります。変更があった場合は、このページの更新日を更新します。</p>
 
-    <h2>お問い合わせ</h2>
-    <p>
-      本プライバシーポリシーに関するご質問は、
-      <a href="https://github.com/kiyohken2000/JustCloth/issues">GitHub Issues</a>
-      よりお問い合わせください。
-    </p>
+    <h3>お問い合わせ</h3>
+    <div class="contact-box">
+      <p>📧 <a href="mailto:retwpay@gmail.com">retwpay@gmail.com</a></p>
+    </div>
 
   </div>
 
   <!-- English -->
   <div class="lang-section" id="lang-en">
 
+    <h2>Support</h2>
+
+    <h3>Contact</h3>
+    <p>For bug reports, feature requests, or any questions, feel free to reach out.</p>
+    <div class="contact-box">
+      <p>📧 Email: <a href="mailto:retwpay@gmail.com">retwpay@gmail.com</a></p>
+      <p>🐛 Bug reports: <a href="https://github.com/kiyohken2000/JustCloth/issues">GitHub Issues</a></p>
+    </div>
+
+    <h3>FAQ</h3>
+    <p><strong>Q. My progress data is gone.</strong><br>
+    Deleting the app also removes all saved data. Backup functionality is not currently available.</p>
+
+    <p><strong>Q. What devices are supported?</strong><br>
+    Just Cloth is exclusive to Apple Vision Pro (visionOS 2.0 or later). iPhone, iPad, and Mac are not supported.</p>
+
+    <p><strong>Q. I want to report incorrect flag or legal information.</strong><br>
+    Please contact us via <a href="https://github.com/kiyohken2000/JustCloth/issues">GitHub Issues</a> or the email address above.</p>
+
+    <h2>Privacy Policy</h2>
+
     <p>
       Just Cloth ("the App") is an educational and political satire interactive art experience
       for Apple Vision Pro, developed by kiyohken2000.
-      This Privacy Policy describes how information is handled in the App.
     </p>
 
-    <h2>Information We Collect</h2>
+    <h3>Information We Collect</h3>
     <p>
       The App does <strong>not collect any personal information</strong>.
       No data is transmitted to external servers.
     </p>
 
-    <h2>Data Stored on Your Device</h2>
+    <h3>Data Stored on Your Device</h3>
     <p>The App stores the following data locally on your device only, using Apple's UserDefaults:</p>
     <ul>
       <li>A list of countries you have disposed (game progress)</li>
@@ -130,32 +166,22 @@
     </ul>
     <p>This data never leaves your device and can be cleared by deleting the App.</p>
 
-    <h2>Third-Party Services</h2>
-    <p>
-      The App does not use any third-party analytics, advertising, or tracking services.
-      No network requests are made during normal use.
-    </p>
+    <h3>Third-Party Services</h3>
+    <p>The App does not use any third-party analytics, advertising, or tracking services. No network requests are made during normal use.</p>
 
-    <h2>Location Information</h2>
+    <h3>Location Information</h3>
     <p>The App does not access or use your location.</p>
 
-    <h2>Children's Privacy</h2>
-    <p>
-      The App is rated 12+ and is not directed at children under the age of 12.
-      We do not knowingly collect any information from children under 12.
-    </p>
+    <h3>Children's Privacy</h3>
+    <p>The App is rated 12+ and is not directed at children under the age of 12. We do not knowingly collect any information from children under 12.</p>
 
-    <h2>Changes to This Policy</h2>
-    <p>
-      We may update this Privacy Policy from time to time without notice.
-      Any changes will be reflected on this page with an updated date.
-    </p>
+    <h3>Changes to This Policy</h3>
+    <p>We may update this Privacy Policy from time to time without notice. Any changes will be reflected on this page with an updated date.</p>
 
-    <h2>Contact</h2>
-    <p>
-      If you have any questions about this Privacy Policy, please contact us via
-      <a href="https://github.com/kiyohken2000/JustCloth/issues">GitHub Issues</a>.
-    </p>
+    <h3>Contact</h3>
+    <div class="contact-box">
+      <p>📧 <a href="mailto:retwpay@gmail.com">retwpay@gmail.com</a></p>
+    </div>
 
   </div>
 
@@ -163,11 +189,11 @@
   <footer>© 2025 kiyohken2000. All rights reserved.</footer>
 
   <script>
-    function switchLang(lang) {
+    function switchLang(lang, e) {
       document.querySelectorAll('.lang-section').forEach(el => el.classList.remove('active'));
       document.querySelectorAll('.lang-toggle button').forEach(el => el.classList.remove('active'));
       document.getElementById('lang-' + lang).classList.add('active');
-      event.target.classList.add('active');
+      e.target.classList.add('active');
     }
   </script>
 
